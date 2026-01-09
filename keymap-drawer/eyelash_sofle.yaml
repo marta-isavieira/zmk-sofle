@@ -151,8 +151,8 @@ layers:
   - KP 8
   - KP 9
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - <
+  - '>'
   - F11
   - F12
   - _
