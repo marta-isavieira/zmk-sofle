@@ -26,7 +26,7 @@ layers:
   - I
   - O
   - P
-  - '|'
+  - {t: \, s: '|'}
   - $$mdi:apple-keyboard-caps$$
   - A
   - S
@@ -114,7 +114,7 @@ layers:
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - RGB BRI
   - RGB BRD
-  - <
+  - '|'
   - '>'
   - F12
   - {t: '$$mdi:transfer$$', type: trans}
