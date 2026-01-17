@@ -25,5 +25,5 @@ manifest:
       remote: mctechnology17
       revision: main
   self:
-  #  path: boards
+    path: boards
     path: config
